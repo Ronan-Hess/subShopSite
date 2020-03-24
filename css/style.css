@@ -4,11 +4,6 @@
     background-color: white;
 }
 
-.img-fluid {
-    max-width: 100%;
-    height: auto;
-    
-}
 
 .navbar {
     background-color: #901CAD;
@@ -22,6 +17,7 @@
 }
 
 .carousel-item {
-    height: 200px;
+    height: 33vh;
     overflow: hidden;
 }
+
