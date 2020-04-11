@@ -1,23 +1,9 @@
-.jumbotron {
-    margin: 0;
-    padding: 0;
-    background-color: white;
-}
-
-
-.navbar {
-    background-color: #901CAD;
-}
-
-
 .row-content {
-    padding: 50px 0;
-    border-bottom: 1px ridge;
-    min-height: 200px;
+    margin-top: 5vh;
 }
 
-.carousel-item {
-    height: 33vh;
-    overflow: hidden;
+.row-content .col {
+    
+    display: flex;
+    justify-content: center;
 }
-
