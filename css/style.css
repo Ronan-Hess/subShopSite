@@ -2,8 +2,10 @@
     margin-top: 5vh;
 }
 
-.row-content .col {
-    
-    display: flex;
-    justify-content: center;
+a {
+    display: block;
+}
+
+.col-md-3 {
+    padding: 3em;
 }
