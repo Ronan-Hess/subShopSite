@@ -9,3 +9,16 @@ a {
 .col-md-3 {
     padding: 3em;
 }
+
+.col {
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    width: 75%;
+}
+
+.reviewCard {
+    width: 100%;
+}
